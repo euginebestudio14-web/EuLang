@@ -1,2 +1,2 @@
 # EuLang
-This is framework for creating you own programming language.
+This is framework for creating you own Games/Apps.
